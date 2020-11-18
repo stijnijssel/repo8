@@ -3,7 +3,7 @@
     "info": {
         "url_png_icon_64x64": "https://i.ibb.co/5WnZGK6/Nautilus-Crypto-Stake-Pool-Logo.png",
         "url_png_logo": "https://i.ibb.co/rGYJkBW/shell-logo-2.png",
-        "location": "Amsterdam, Netherlands",
+        "location": "Netherlands, Europe",
         "social": {
             "twitter_handle": "",
             "telegram_handle": "nautiluscryptostakepool",
@@ -22,21 +22,21 @@
             "vat_id": ""
         },
         "about": {
-            "me": "",
-            "server": "",
+            "me": "We are a team of three individuals with a strong passion and belief in the cryptocurrency industry. With our combined experience of 20 years in Information Technology system engineering and cybersecurity, we are commited to push the decentralization as far as possible and to support the cardano community .",
+            "server": "Our Servers are running on the cloud. Our four relays are located in Finland and Germany with mutiple reduncy. All sensative keys are stored and handled on a dedicated offline environment, providding complete safety to the pool. ",
             "company": ""
         },
         "rss": ""
     },
     "my-pool-ids": {
-        "0": "23da1ec17a28535f8b8305ae758e2548116060813663bfc307d93c62"
-   
+        "0": "",
+        "1": ""
     },
     "when-satured-then-recommend": {
-        "0": ""
-        
+        "0": "",
+        "1": ""
     },
     "telegram-admin-handle": {
-        "0": "nautiluscrypto"
+        "0": ""
     }
 }
